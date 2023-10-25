@@ -4,7 +4,7 @@ import { View, Text } from "react-native";
 function App(){
   return(
     <View>
-      <Text>Jesus Cristo é o Senhor</Text>
+      <Text>Jesus Cristo é o Senhor hoje e sempre.</Text>
     </View>
   );
 }
